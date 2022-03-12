@@ -1,10 +1,9 @@
-﻿using System;
+﻿using Indexing.Logic.ValueObjects;
 
-namespace IndexingBoundedContext.Core.Aggregates
+namespace Indexing.Logic.Core.Entities
 {
-  public class WebPage
+  public class WebPage : Entity
   {
-    public Uri Address { get; private set; }
 
     public TextWithoutHTML Title { get; set; }
 
@@ -12,7 +11,7 @@ namespace IndexingBoundedContext.Core.Aggregates
 
     public WebPage(Uri address, TextWithoutHTML title, TextWithoutHTML content)
     {
-      Address = address;
+      Uri = address;
       Title = title;
       Content = content;
     }

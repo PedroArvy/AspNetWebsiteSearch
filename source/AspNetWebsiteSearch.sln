@@ -3,14 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexingBoundedContext", "IndexingBoundedContext\IndexingBoundedContext.csproj", "{3400C9D5-E444-49EB-AE71-C76C1129C9E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexing.Logic", "IndexingBoundedContext\Indexing.Logic.csproj", "{3400C9D5-E444-49EB-AE71-C76C1129C9E7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{646F8622-CD2B-483F-B98F-EC78A4861E85}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchingBoundedContext", "SearchingBoundedContext\SearchingBoundedContext.csproj", "{6DE04C15-B81E-4AA3-897C-DA055DFE78C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Searching.Logic", "SearchingBoundedContext\Searching.Logic.csproj", "{6DE04C15-B81E-4AA3-897C-DA055DFE78C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNetWebsiteSearch.UI", "ASPNetWebsiteSearch.UI\ASPNetWebsiteSearch.UI.csproj", "{24E13C21-6D00-40DC-A805-9CD01880826B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexing.Logic.Tests", "Indexing.Logic.Tests\Indexing.Logic.Tests.csproj", "{C77CA3D6-D80B-4812-98C7-C14632197C58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +30,14 @@ Global
 		{6DE04C15-B81E-4AA3-897C-DA055DFE78C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DE04C15-B81E-4AA3-897C-DA055DFE78C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DE04C15-B81E-4AA3-897C-DA055DFE78C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E13C21-6D00-40DC-A805-9CD01880826B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E13C21-6D00-40DC-A805-9CD01880826B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E13C21-6D00-40DC-A805-9CD01880826B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E13C21-6D00-40DC-A805-9CD01880826B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C77CA3D6-D80B-4812-98C7-C14632197C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77CA3D6-D80B-4812-98C7-C14632197C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77CA3D6-D80B-4812-98C7-C14632197C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77CA3D6-D80B-4812-98C7-C14632197C58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

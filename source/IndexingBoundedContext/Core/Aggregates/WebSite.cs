@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using Indexing.Logic.Core.Entities;
 
-namespace IndexingBoundedContext.Core.Aggregates
+
+namespace Indexing.Logic.Core.Aggregates
 {
-  public sealed class WebSite
+  public class WebSite
   {
     private List<WebPage> WebPages = new List<WebPage>();
 
@@ -29,14 +28,14 @@ namespace IndexingBoundedContext.Core.Aggregates
     }
 
 
-    public bool Exists(WebPage webPage) => WebPages.Any(w => w.Address == webPage.Address);
+    public bool Exists(WebPage webPage) => WebPages.Any(w => w.Uri == webPage.Uri);
 
     
     public bool Update(WebPage webPage)
     {
       bool updated = false;
 
-      WebPage page = WebPages.FirstOrDefault(w => w.Address == webPage.Address);
+      WebPage page = WebPages.FirstOrDefault(w => w.Uri == webPage.Uri);
 
       if(page != null)
       {
