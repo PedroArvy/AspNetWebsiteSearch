@@ -1,0 +1,15 @@
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\AspNetSiteSearch\bin\Debug\net6.0\AspNetSiteSearch.exe
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\AspNetSiteSearch\bin\Debug\net6.0\AspNetSiteSearch.deps.json
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\AspNetSiteSearch\bin\Debug\net6.0\AspNetSiteSearch.runtimeconfig.json
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\AspNetSiteSearch\bin\Debug\net6.0\AspNetSiteSearch.dll
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\AspNetSiteSearch\bin\Debug\net6.0\AspNetSiteSearch.pdb
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\AspNetSiteSearch\obj\Debug\net6.0\AspNetSiteSearch.csproj.AssemblyReference.cache
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\AspNetSiteSearch\obj\Debug\net6.0\AspNetSiteSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\AspNetSiteSearch\obj\Debug\net6.0\AspNetSiteSearch.AssemblyInfoInputs.cache
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\AspNetSiteSearch\obj\Debug\net6.0\AspNetSiteSearch.AssemblyInfo.cs
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\AspNetSiteSearch\obj\Debug\net6.0\AspNetSiteSearch.csproj.CoreCompileInputs.cache
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\AspNetSiteSearch\obj\Debug\net6.0\AspNetSiteSearch.dll
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\AspNetSiteSearch\obj\Debug\net6.0\refint\AspNetSiteSearch.dll
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\AspNetSiteSearch\obj\Debug\net6.0\AspNetSiteSearch.pdb
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\AspNetSiteSearch\obj\Debug\net6.0\AspNetSiteSearch.genruntimeconfig.cache
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\AspNetSiteSearch\obj\Debug\net6.0\ref\AspNetSiteSearch.dll

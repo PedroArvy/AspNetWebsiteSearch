@@ -1,0 +1,12 @@
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\IndexingBoundedContext\bin\Debug\net6.0\IndexingBoundedContext.deps.json
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\IndexingBoundedContext\bin\Debug\net6.0\IndexingBoundedContext.dll
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\IndexingBoundedContext\bin\Debug\net6.0\IndexingBoundedContext.pdb
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\IndexingBoundedContext\obj\Debug\net6.0\IndexingBoundedContext.csproj.AssemblyReference.cache
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\IndexingBoundedContext\obj\Debug\net6.0\IndexingBoundedContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\IndexingBoundedContext\obj\Debug\net6.0\IndexingBoundedContext.AssemblyInfoInputs.cache
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\IndexingBoundedContext\obj\Debug\net6.0\IndexingBoundedContext.AssemblyInfo.cs
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\IndexingBoundedContext\obj\Debug\net6.0\IndexingBoundedContext.csproj.CoreCompileInputs.cache
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\IndexingBoundedContext\obj\Debug\net6.0\IndexingBoundedContext.dll
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\IndexingBoundedContext\obj\Debug\net6.0\refint\IndexingBoundedContext.dll
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\IndexingBoundedContext\obj\Debug\net6.0\IndexingBoundedContext.pdb
+C:\Yart\Clients and Jobs\ASPNetSearch\AspNetSiteSearch\IndexingBoundedContext\obj\Debug\net6.0\ref\IndexingBoundedContext.dll
