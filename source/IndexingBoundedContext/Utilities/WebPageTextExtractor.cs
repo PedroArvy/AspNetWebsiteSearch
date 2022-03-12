@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace Indexing.Logic.Utilities
 {
+  /// <summary>
+  /// Utilities for extracting text from HTML
+  /// </summary>
   public class WebPageExtracter
   {
 
