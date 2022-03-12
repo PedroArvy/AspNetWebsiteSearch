@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tnaa9HFg24JJabVeGLnFbYFFxz6tqV9FHqUcbGUbFJRB8C8ABrLliS2vOieGV+aDOQkrNjE63Yc/LQSZZqd1qQ==",
+  "dgSpecHash": "huNjq9bqlHNItwz0+0sXLiqV/do1OHwBWqeeVsKnxODt2rNpePm9JyuneTmNeI5/s+fEzF0CZ7MefvVn+TLPvg==",
   "success": true,
-  "projectFilePath": "C:\\Yart\\Clients and Jobs\\ASPNetSearch\\AspNetSiteSearch\\IndexingBoundedContext\\IndexingBoundedContext.csproj",
+  "projectFilePath": "C:\\Yart\\Clients and Jobs\\AspNetWebsiteSearch\\source\\IndexingBoundedContext\\IndexingBoundedContext.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
