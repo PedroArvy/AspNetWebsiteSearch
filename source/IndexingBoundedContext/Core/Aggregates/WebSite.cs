@@ -40,7 +40,7 @@ namespace Indexing.Logic.Core.Aggregates
       if(page != null)
       {
         page.Title = webPage.Title;
-        page.Content = webPage.Content;    
+        page.SearchableText = webPage.SearchableText;    
       }
 
       return updated;

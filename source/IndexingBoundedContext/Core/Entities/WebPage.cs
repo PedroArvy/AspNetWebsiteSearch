@@ -5,15 +5,15 @@ namespace Indexing.Logic.Core.Entities
   public class WebPage : Entity
   {
 
-    public TextWithoutHTML Title { get; set; }
+    public string Title { get; set; }
 
-    public TextWithoutHTML Content { get; set; }
+    public string SearchableText { get; set; }
 
-    public WebPage(Uri address, TextWithoutHTML title, TextWithoutHTML content)
+    public WebPage(Uri address, string title, string content)
     {
       Uri = address;
       Title = title;
-      Content = content;
+      SearchableText = content;
     }
 
 
