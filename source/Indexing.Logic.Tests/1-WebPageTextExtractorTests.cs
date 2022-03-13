@@ -70,6 +70,25 @@ namespace Indexing.Logic.Tests
       Assert.AreEqual(page.SearchableText, "Heading Text");
       Assert.AreEqual(page.Uri, new Uri("http://www.abc.com"));
 
+      page = UriToWebPage.Make(new Uri("http://www.abc.com"), MakeDocument("<!DOCTYPE html><html><title></title><body><h1>Heading</h1><p>Text</p></body></html>"));
+      Assert.AreEqual(page.Title, "");
+      Assert.AreEqual(page.SearchableText, "Heading Text");
+      Assert.AreEqual(page.Uri, new Uri("http://www.abc.com"));
+
+      page = UriToWebPage.Make(new Uri("http://www.abc.com"), MakeDocument("<!DOCTYPE html><html><body><h1>Heading</h1><p>Text</p></body></html>"));
+      Assert.AreEqual(page.Title, "");
+      Assert.AreEqual(page.SearchableText, "Heading Text");
+      Assert.AreEqual(page.Uri, new Uri("http://www.abc.com"));
+
+      page = UriToWebPage.Make(new Uri("http://www.abc.com"), MakeDocument("<!DOCTYPE html><html><body></body></html>"));
+      Assert.AreEqual(page.Title, "");
+      Assert.AreEqual(page.SearchableText, "");
+      Assert.AreEqual(page.Uri, new Uri("http://www.abc.com"));
+
+      page = UriToWebPage.Make(new Uri("http://www.abc.com"), MakeDocument("<!DOCTYPE html><html></html>"));
+      Assert.AreEqual(page.Title, "");
+      Assert.AreEqual(page.SearchableText, "");
+      Assert.AreEqual(page.Uri, new Uri("http://www.abc.com"));
     }
 
 
